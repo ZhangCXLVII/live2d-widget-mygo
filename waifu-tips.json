@@ -3,47 +3,47 @@
     "default": [
       [
         {
-          "text": "这是纹颊企鹅……这是阿德利企鹅……我还有别的企鹅系列创可贴哦。",
+          "text": "This is a striped penguin... This is an Adelie penguin... I have other Penguin Band-Aids.",
           "motion": "smile01",
           "expression": "smile01"
         },
         {
-          "text": "能和我组一辈子的乐队吗？",
+          "text": "Can you be in a band with me forever?",
           "motion": "kandou01",
           "expression": "kandou01"
         },
         {
-          "text": "比起悲伤之情，我先想到的是……如果把泪水收集起来就好了……",
+          "text": "Instead of feeling sad, I thought of... If only the tears were collected...",
           "motion": "sad01",
           "expression": "sad01"
         },
         {
-          "text": "已经落下来的花，应该是死掉了……",
+          "text": "The flowers that have fallen should be dead...",
           "motion": "sad02",
           "expression": "sad02"
         },
         {
-          "text": "这个笔记本，封面有各种图案……我有全部种类。",
+          "text": "This notebook, the cover has all kinds of patterns... I have all kinds.",
           "motion": "smile02",
           "expression": "smile02"
         },
         {
-          "text": "之前小祥说的独角仙笔记本……我找了很久才买到……",
+          "text": "The one-horn fairy notebook that Xiao Xiang said before... I looked for it for a long time before I could buy...",
           "motion": "smile03",
           "expression": "smile03"
         },
         {
-          "text": "想要……成为人类……",
+          "text": "Want to To be human...",
           "motion": "serious01",
           "expression": "serious01"
         },
         {
-          "text": "我想拥有重要的事物……让我像大家那样流泪……",
+          "text": "I want to have something important... Make me cry like everyone else...",
           "motion": "cry01",
           "expression": "cry01"
         },
         {
-          "text": "小爱，一直在前进。就算遇到了死胡同，也会努力寻找出路，试图向前……",
+          "text": "Little love, always moving forward. Even if you meet a dead end, you will try to find a way out and try to move forward...",
           "motion": "thinking01",
           "expression": "thinking01"
         },
